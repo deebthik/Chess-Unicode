@@ -1,1 +1,1 @@
-# Chess-Unicode
+A lightweight Chess game developed in Python2, that allows two players to play a lightweight game of chess on a computer with no GUI but on a simple shell nevertheless with grahpical symbols through Unicode.
